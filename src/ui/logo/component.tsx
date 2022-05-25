@@ -31,7 +31,7 @@ export const Logo: FC = memo(() => {
     return (
         <Styled.Wrapper href="https://www.npmjs.com/package/veest" target="_blank">
             <Styled.Image
-                src="https://raw.githubusercontent.com/wintpann/veest/main/logo.png"
+                src="https://raw.githubusercontent.com/wintpann/veest-state/main/logo.png"
                 width="80"
                 height="80"
                 alt="Logo"

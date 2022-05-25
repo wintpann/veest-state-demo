@@ -21,7 +21,7 @@
     "use-immer": "^0.6.0",
     "use-react-router-breadcrumbs": "^3.2.0",
     "uuid": "^8.3.2",
-    "veest": "^1.0.16",
+    "veest": "^1.0.19",
     "yup": "^0.32.11"
   },
   "homepage": ".",
